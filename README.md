@@ -1,1 +1,1 @@
-# Analysis-on-wage-variance-of-post-graduate
+# This analysis looks at the wage variance of individuals. Wage is dependent of many variables, such as GPA, type of education, school etc. These factors can also be changed by household memebers, like husband and wife. Data provided from WAGE2 allowes me to conduct analysis on these factors.
